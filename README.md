@@ -1,2 +1,2 @@
 # COVID-19
-Public repository from CORONAVIRUS
+Public COVID-19 repository
